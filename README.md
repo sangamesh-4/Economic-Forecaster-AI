@@ -6,7 +6,7 @@ An advanced **AI-powered economic intelligence system** that leverages **Retriev
 
 ## 🚀 Live Demo
 
-👉 https://your-app.streamlit.app
+👉 https://economic-forecaster-ai-by-me-for-you-sangu0121.streamlit.app
 
 ---
 
